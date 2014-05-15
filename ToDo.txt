@@ -1,0 +1,10 @@
+DB Struktur:
+
+
+- id
+- Datum
+- Uhrzeit
+- Filename
+- relativer Pfad (auf root bezogen)
+- Aktuell - Boolen
+- 
